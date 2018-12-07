@@ -1,0 +1,15 @@
+#
+# A settings file consists of a set of (key, value) pairs of setting names
+# and their associated values. Each pair appears on its own line and is
+# separated by an equals sign (=). Long lines can be split into multiple lines
+# by ending each line but the last with a backslash (\). The backslash can
+# also be used to escape special characters; for example, a key name can include
+# an equals sign if it is escaped (\=). If the first non-blank character in a
+# line is a number sign (#), then the entire line is treated as a comment and
+# will be ignored.
+#
+
+character-blank-template = components/character-card/images/framework/blank.jp2
+character-blank-dpi = 300
+character-portrait-template = components/character-card/images/example/protrait.jpg
+character-portrait-clip-region = 45,45,650,650

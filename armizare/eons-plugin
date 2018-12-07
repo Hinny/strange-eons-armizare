@@ -1,0 +1,17 @@
+# Armizare Root File
+#
+
+id = CATALOGUEID{977d23e7-887b-4451-9c79-f49e002ee022:2018-11-7-22-5-6-804}
+
+priority = GAME
+ui-languages = en
+game-languages = en
+
+catalog-name = Armizare
+catalog-credit = Hinny
+catalog-homepage = http://github.com/Hinny/strange-eons-armizare
+catalog-description = Create cards for the HEMA sparring game invented by Henrik \
+    Wadell
+catalog-tags = game
+
+res://plugin.js
